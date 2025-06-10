@@ -3,11 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 
-✨ 一个功能强大的定投(Dollar Cost Averaging)收益率计算器，支持多种资产类别，并集成了大模型预测功能。
+✨ 一个功能强大的命令行定投(Dollar Cost Averaging)收益率计算器，支持多种资产类别，并集成了大模型预测功能。
 
 ## 🚀 项目简介
 
-DCA 定投计算器是一个帮助投资者计算定期定额投资策略收益的工具。通过智能分析历史数据和市场趋势，为您的投资决策提供数据支持。
+DCA Calculator 是一个帮助投资者计算定期定额投资策略收益的命令行工具。通过智能分析历史数据和市场趋势，为您的投资决策提供数据支持。
 
 ### 🌟 主要特点
 
